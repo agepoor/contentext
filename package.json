@@ -1,6 +1,6 @@
 {
   "name": "contentext",
-  "version": "0.2.0",
+  "version": "0.1.1",
   "description": "A tool for extracting the file structure and file content from web development projects. Useful for copying the context for analysis by other tools, like ChatGPT or GPT4.",
   "main": "src/index.js",
   "bin": {
