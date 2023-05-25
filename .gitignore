@@ -3,3 +3,7 @@ package-lock.json
 .git
 .githooks
 content_snapshot.txt
+tests
+jest.config.js
+test-api.js
+test-project

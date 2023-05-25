@@ -64,3 +64,5 @@ ContentExt is a Node.js tool for extracting content from files in the project fo
      ```bash
      contentext -t "html,css" -x "assets,node_modules" -f "main.css" -i "specific.html" -v -o "content_extract.txt"
      ```
+
+## Todo
